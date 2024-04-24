@@ -1,0 +1,14 @@
+Iki Keklik;Erkan Ogur;1003;Turk Halk;1996
+Bir Keklik;Talha Gunes;1004;Turk Pop Single;2023
+Hic Keklik Yok;Enes Kanbur;2002;Turk Metal;2019
+Arasan Da Data;Talha Ve Enes;2547;R&B;2002
+Paparazzi Tales;Fuat Haktan;5478;Rap;1879
+Chevro;Hakan Bayraktar;1479;Arap Halk Muzigi;2008
+OkayGood;Kurt Iso;1112;Konu Anlatımı;2021
+HaydoHay;Haydo Cepkin;1567;Bagirmali Arabesk;1987
+Slaytlardan Okudum;Serdar Orti;2478;Kral Sarkilar;1987
+Oldu Olanlar;Suslu Sulu;56161;Trap;2019
+Kredi Cikti;Gursel Turizm;2548;R&B;2000
+Bir Dolar Sevdim;Derbeder Talha;561;Ekonomik Sarkilar;2023
+Burs Kime Cikti;Kyk;1478;Pazar Bestesi;2004
+Sok Hazir Sandivich;Talha Terim;4257;Galatasary Tribun Bestesi;2002
